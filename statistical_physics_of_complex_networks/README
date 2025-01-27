@@ -1,0 +1,30 @@
+PROJEKT MODELU SIECI EWOLUUJĄCEJ BARABASI-ALBERT 
+wykonał Jan Malinowski na potrzeby przedmiotu Wprowadzenie do fizyki złożoności. Fizyka statystyczna sieci złożonych.
+
+Program ten wykonuje symulacje sieci ewoluującej modelu Barabasi-Albert korzystając z implementacji standardowego algorytmu, który można znaleźć na stronie http://www.networksciencebook.com, zmodyfikowanego w jednym miejscu. Modyfikacja ta polega na losowaniu wierzchołków do których dołączona będzie krawędź z prawdopodobieństwem proporocjonalnym do ich stopni, natomiast w oryginalnym algorytmie losuje się z prawdopodobieństwem proporcjonalnym do stopnia jaki miałby wierzchołek po otrzymaniu krawędzi z bieżącego kroku.
+
+Program posiada dwa tryby: do symulacji grafu oraz do analizy wyników. 
+
+Przykładowe uruchomienia:
+python3 ba_model.py -mode sym -m_init 100 -m 4 -t 10 100 -k 2 -r -w
+(przeprowadzenie symulacji w 2 próbach o zadanych parametrach, a następnie wyświetnie wykresu zależności P(k) i zapisanie go w formacie pdf)
+python3 ba_model.py -mode sym -m_init 100 -m 4 -t 10 100 -k 2 -r -w -g 
+(przeprowadzenie symulacji w 2 próbach o zadanych parametrach, a następnie wyświetnie wykresu zależności P(k) oraz grafu przedstawiającego sieć i zapisanie ich w formacie pdf)
+python3 ba_model.py -mode stat -m_init 100 -m 4 -t 10 100 -k 3 -r -w 
+(analiza statystyczna wyników z 3 prób symulacji o zadanych parametrach, a następnie wyświetlenie wykresu zależności alfa(N) oraz zapisanie go w formacie pdf)
+
+Pomoc do uruchomienia programu można zobaczyć po wywołaniu programu z opcją --help. 
+Przy uruchamianiu należy podać argumenty dla opcji MODE, M_INIT, M, T oraz K. 
+Reszta argumentów jest opcjonalna.
+
+Program optymalizowano na procesorze Intel Pentium G4560 o taktowaniu rdzeni 3.5GHz (brak zrównoleglenia). Na tej jednostce czas trwania symulacji o parametrach m_init=100, m=4 oraz dla 10^6 kroków wyniósł ok. 90 minut. Poniżej tej liczby kroków czas miał złożoność kwadratową. 
+
+Do uruchomienia programu wymagane jest zainstalowanie pakietu obsługującego język programowania python3.
+Potrzebne jest także zainstalowanie następujących bibliotek języka python3:
+-argparse
+-numpy
+-matplotlib
+-networkx
+-collections
+-random
+-time
