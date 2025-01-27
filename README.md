@@ -1,22 +1,21 @@
 ## Hello there 👋
 
 Welcome to repository containing personal projects of **Jan Malinowski** *Applied Physics MSc.*  
-My plan to 
+I plan to uptade this repository with recent projects and interesting results of my research.
 
 Contents of repo:
 - [CV in English](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_en.pdf)
 - [CV in Polish](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_pl.pdf)
-- [modelling_of_complex_biological_systems]
-- [molecular_modelling]
-- [statistical_data_analysis]
-- [statistical_physics_of_complex_networks]
-- [note on examining differences between two datasets of partially  ](https://github.com/jktmal/jktmal/blob/main/stat_note.pdf) 
+- [project on modeling complex biological systems in R](https://github.com/jktmal/jktmal/tree/main/modelling_of_complex_biological_systems)
+- [project applying statistical data analysis in R](https://github.com/jktmal/jktmal/tree/main/statistical_data_analysis)
+- [various molecular modeling projects in Python](https://github.com/jktmal/jktmal/tree/main/molecular_modeling)
+- [project on statistical physics of complex networks in Python](https://github.com/jktmal/jktmal/tree/main/statistical_physics_of_complex_networks)
+- [note on examining differences between two datasets originating from one common dataset](https://github.com/jktmal/jktmal/blob/main/stat_note.pdf) 
 
-TEST
+This is only tiny fragment of work I've done for last few years, that I've found acceptable to present without putting huge effort to polish.
 
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning ...
+🔭 I’m currently working on few projects regarding various topics from optimalization problems to clusterization of non-trivial data.
+🌱 I’m currently learning mathematical modeling of finance processess.
 
 📫 You can reach me via mail: <jkt.malinowski@gmail.com>
 
