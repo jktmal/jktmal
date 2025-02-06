@@ -7,6 +7,8 @@ Contents of repo:
 - [CV in English](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_en.pdf)
 - [CV in Polish](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_pl.pdf)
 - [bachelor thesis originally written in English](https://github.com/jktmal/jktmal/blob/main/BSc_thesis_JanMalinowski.pdf)
+- [publication that I co-authored](https://www.researchgate.net/publication/346736446_Properties_of_Cavities_in_Biological_Structures-A_Survey_of_the_Protein_Data_Bank)
+- [site linked to the aforementioned publication, that I contributed with my code](http://info.ifpan.edu.pl/~chwastyk/spaceball/)
 - [project on modeling complex biological systems in R](https://github.com/jktmal/jktmal/tree/main/modelling_of_complex_biological_systems)
 - [project applying statistical data analysis in R](https://github.com/jktmal/jktmal/tree/main/statistical_data_analysis)
 - [various molecular modeling projects in Python](https://github.com/jktmal/jktmal/tree/main/molecular_modeling)
