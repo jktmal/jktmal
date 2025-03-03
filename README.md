@@ -3,6 +3,8 @@
 Welcome to repository containing personal projects of **Jan Malinowski** *Applied Physics MSc.*  
 I plan to uptade this repository with recent projects and interesting results of my research.
 
+**IMPORTANT:** English version of [CV](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_en.pdf) is the most recent one.
+
 Contents of repo:
 - [CV in English](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_en.pdf)
 - [CV in Polish](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski_pl.pdf)
