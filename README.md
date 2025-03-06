@@ -5,7 +5,7 @@ I plan to uptade this repository with recent projects and interesting results of
 
 Contents of repo:
 - [bachelor thesis originally written in English](https://github.com/jktmal/jktmal/blob/main/BSc_thesis_JanMalinowski.pdf)
-- master thesis also written in English is going to be uploaded in 5 months (after the priority to publicate for University expires)
+- master thesis also written in English is going to be uploaded in 3 months (after the priority to publicate for University expires)
 - [publication that I co-authored](https://www.researchgate.net/publication/346736446_Properties_of_Cavities_in_Biological_Structures-A_Survey_of_the_Protein_Data_Bank)
 - [site linked to the aforementioned publication, that I contributed with my code](http://info.ifpan.edu.pl/~chwastyk/spaceball/)
 - [note on examining differences between two datasets originating from one common dataset](https://github.com/jktmal/jktmal/blob/main/stat_note.pdf) 
