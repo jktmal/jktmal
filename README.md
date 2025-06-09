@@ -1,12 +1,17 @@
-## Hello there 👋
+# Hello there 👋
 
 Welcome to repository containing personal projects of **Jan Malinowski** *Applied Physics MSc.*  
 I plan to uptade this repository with recent projects and interesting results of my research.
 
-Contents of repo:
+## Contents
+
+### Current projects
+- 
+- 
+- [most recent project regarding data analysis for chemistry publication [in progress]](https://github.com/jktmal/jktmal/tree/main/statistical_analysis_of_extraction_optimization)
+### Archival projects
 - [bachelor thesis originally written in English](https://github.com/jktmal/jktmal/blob/main/BSc_thesis_JanMalinowski.pdf)
 - master thesis also written in English is going to be uploaded on 01.07.2025 (after the priority to publicate for University expires)
-- [most recent project regarding data analysis for chemistry publication [in progress]](https://github.com/jktmal/jktmal/tree/main/statistical_analysis_of_extraction_optimization)
 - [publication that I co-authored](https://www.researchgate.net/publication/346736446_Properties_of_Cavities_in_Biological_Structures-A_Survey_of_the_Protein_Data_Bank)
 - [site linked to the aforementioned publication, that I contributed with my code](http://info.ifpan.edu.pl/~chwastyk/spaceball/)
 - [note on examining differences between two datasets originating from one common dataset](https://github.com/jktmal/jktmal/blob/main/stat_note.pdf) 
