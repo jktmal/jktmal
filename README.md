@@ -1,10 +1,9 @@
 # Hello there 👋
-
 Welcome to repository containing personal projects of **Jan Malinowski** *Applied Physics MSc.*  
 I plan to uptade this repository with recent projects and interesting results of my research.
+## About me
 
 ## Contents
-
 ### Current projects
 - 
 - 
@@ -19,7 +18,6 @@ I plan to uptade this repository with recent projects and interesting results of
 - [project applying statistical data analysis in R](https://github.com/jktmal/jktmal/tree/main/statistical_data_analysis)
 - [various molecular modeling projects in Python](https://github.com/jktmal/jktmal/tree/main/molecular_modeling)
 - [project on statistical physics of complex networks in Python](https://github.com/jktmal/jktmal/tree/main/statistical_physics_of_complex_networks)
-
 
 This is only tiny fragment of work I've done for last few years, that I've found acceptable to present without putting huge effort to polish.
 
