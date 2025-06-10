@@ -2,7 +2,11 @@
 Welcome to repository containing personal projects of **Jan Malinowski** *Applied Physics MSc.*  
 I plan to uptade this repository with recent projects and interesting results of my research.
 ## About me
-I've graduated applied physics at University of Warsaw specializing in molecular modelling (theoritcal biophysics). During my studies I've explored many areas ranging from basics of computer science and bioinformatics to economics (studied it for a year), being awarded with scholarships for best students and realizing various academical projects. These studies made me passionate about scientific reasoning and analysing data, that lead me to completing few courses on statistics and data science. Currently I'm looking for a job that would satisfy my interests and for which I wouldn't be too overqualified. Sample CV could be viewed [here].
+I've graduated applied physics at University of Warsaw specializing in molecular modelling (theoritcal biophysics). During my studies I've explored many areas ranging from basics of computer science and bioinformatics to economics (studied it for a year), being awarded with scholarships for best students and realizing various academical projects. These studies made me passionate about scientific reasoning and analysing data, that lead me to completing few courses on statistics and data science. 
+
+Currently I'm looking for a job that would satisfy my interests and for which I wouldn't be too overqualified. 
+
+Sample CV could be viewed [here].
 ## Contents
 ### Current projects
 - sudoku solver based on machine learning methods
