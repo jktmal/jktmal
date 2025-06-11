@@ -6,7 +6,7 @@ I've graduated applied physics at University of Warsaw specializing in molecular
 
 Currently I'm looking for a job that would satisfy my interests and for which I wouldn't be too overqualified. 
 
-Sample CV could be viewed [here].
+Sample CV could be viewed [here](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski.pdf).
 ## Contents
 ### Current projects
 - [sudoku solver based on machine learning methods](https://github.com/jktmal/sudokuSolver)
