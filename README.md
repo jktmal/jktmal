@@ -9,7 +9,7 @@ Currently I'm looking for a job that would satisfy my interests and for which I 
 Sample CV could be viewed [here].
 ## Contents
 ### Current projects
-- sudoku solver based on machine learning methods
+- [sudoku solver based on machine learning methods](https://github.com/jktmal/sudokuSolver)
 - world of warcraft DPS optimization with ML methods
 - [most recent project regarding data analysis for chemistry publication [in progress]](https://github.com/jktmal/jktmal/tree/main/statistical_analysis_of_extraction_optimization)
 ### Archival projects
