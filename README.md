@@ -11,8 +11,8 @@ Sample CV could be viewed [here](https://github.com/jktmal/jktmal/blob/main/cv_J
 📫 You can reach me via mail: <jkt.malinowski@gmail.com>
 ## Contents
 ### Current projects
-- [sudoku solver based on machine learning methods](https://github.com/jktmal/sudokuSolver)
-- [world of warcraft DPS optimization with ML methods](https://github.com/jktmal/wow_theorycraft_shamCata)
+- [sudoku solver based on machine learning methods [in progress]](https://github.com/jktmal/sudokuSolver)
+- [world of warcraft DPS optimization with ML methods [in progress]](https://github.com/jktmal/wow_theorycraft_shamCata)
 - [most recent project regarding data analysis for chemistry publication [in progress]](https://github.com/jktmal/jktmal/tree/main/statistical_analysis_of_extraction_optimization)
 ### Archival projects
 - [master thesis written in English](https://github.com/jktmal/jktmal/blob/main/MSc_thesis_JanMalinowski.pdf)
