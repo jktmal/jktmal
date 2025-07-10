@@ -15,8 +15,7 @@ Sample CV could be viewed [here](https://github.com/jktmal/jktmal/blob/main/cv_J
 - [world of warcraft DPS optimization with ML methods](https://github.com/jktmal/wow_theorycraft_shamCata)
 - [most recent project regarding data analysis for chemistry publication [in progress]](https://github.com/jktmal/jktmal/tree/main/statistical_analysis_of_extraction_optimization)
 ### Archival projects
-- [bachelor thesis originally written in English](https://github.com/jktmal/jktmal/blob/main/BSc_thesis_JanMalinowski.pdf)
-- master thesis also written in English is going to be uploaded on 01.07.2025 (after the priority to publicate for University expires)
+- [master thesis written in English](https://github.com/jktmal/jktmal/blob/main/MSc_thesis_JanMalinowski.pdf)
 - [publication that I co-authored](https://www.researchgate.net/publication/346736446_Properties_of_Cavities_in_Biological_Structures-A_Survey_of_the_Protein_Data_Bank)
 - [site linked to the aforementioned publication, that I contributed with my code](http://info.ifpan.edu.pl/~chwastyk/spaceball/)
 - [note on examining differences between two datasets originating from one common dataset](https://github.com/jktmal/jktmal/blob/main/stat_note.pdf) 
@@ -24,6 +23,7 @@ Sample CV could be viewed [here](https://github.com/jktmal/jktmal/blob/main/cv_J
 - [project applying statistical data analysis in R](https://github.com/jktmal/jktmal/tree/main/statistical_data_analysis)
 - [various molecular modeling projects in Python](https://github.com/jktmal/jktmal/tree/main/molecular_modeling)
 - [project on statistical physics of complex networks in Python](https://github.com/jktmal/jktmal/tree/main/statistical_physics_of_complex_networks)
+- [bachelor thesis written in English](https://github.com/jktmal/jktmal/blob/main/BSc_thesis_JanMalinowski.pdf)
 
 This is only tiny fragment of work I've done for last few years, that I've found acceptable to present without putting huge effort to polish.
 
