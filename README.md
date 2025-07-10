@@ -6,11 +6,13 @@ I've graduated applied physics at University of Warsaw specializing in molecular
 
 Currently I'm looking for a job that would satisfy my interests and for which I wouldn't be too overqualified. 
 
-Sample CV could be viewed [here].
+Sample CV could be viewed [here](https://github.com/jktmal/jktmal/blob/main/cv_JanMalinowski.pdf).
+
+📫 You can reach me via mail: <jkt.malinowski@gmail.com>
 ## Contents
 ### Current projects
 - [sudoku solver based on machine learning methods](https://github.com/jktmal/sudokuSolver)
-- world of warcraft DPS optimization with ML methods
+- [world of warcraft DPS optimization with ML methods](https://github.com/jktmal/wow_theorycraft_shamCata)
 - [most recent project regarding data analysis for chemistry publication [in progress]](https://github.com/jktmal/jktmal/tree/main/statistical_analysis_of_extraction_optimization)
 ### Archival projects
 - [bachelor thesis originally written in English](https://github.com/jktmal/jktmal/blob/main/BSc_thesis_JanMalinowski.pdf)
@@ -28,7 +30,6 @@ This is only tiny fragment of work I've done for last few years, that I've found
 🔭 I’m currently working on few projects regarding various topics from optimalization problems to clusterization of non-trivial data.
 🌱 I’m currently learning mathematical modeling of finance processess.
 
-📫 You can reach me via mail: <jkt.malinowski@gmail.com>
 
 <!--
 **jktmal/jktmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
